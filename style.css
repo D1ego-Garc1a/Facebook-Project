@@ -45,4 +45,5 @@ nav {
 
 .search-box {
   background-color: #efefef;
+  display: flex;
 }
