@@ -42,3 +42,7 @@ nav {
   border-radius: 50%;
   cursor: pointer;
 }
+
+.search-box {
+  background-color: #efefef;
+}
