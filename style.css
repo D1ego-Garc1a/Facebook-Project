@@ -45,5 +45,8 @@ nav {
 
 .search-box {
   background-color: #efefef;
+  width: 350px;
+  border-radius: 20px;
   display: flex;
+  align-items: center;
 }
