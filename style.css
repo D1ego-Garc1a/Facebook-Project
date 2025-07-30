@@ -20,3 +20,12 @@ nav {
   width: 160px;
   margin-right: 45px;
 }
+
+.nav-left {
+  display: flex;
+  align-items: center;
+}
+
+.nav-left ul li {
+  display: inline-block;
+}
