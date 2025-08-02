@@ -80,4 +80,6 @@ nav {
   border-radius: 50%;
   background: #41db51;
   position: absolute;
+  top: 0;
+  right: 0;
 }
