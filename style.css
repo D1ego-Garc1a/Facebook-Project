@@ -67,3 +67,7 @@ nav {
   outline: none;
   padding: 10px;
 }
+
+.online {
+  position: relative;
+}
