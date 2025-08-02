@@ -74,4 +74,7 @@ nav {
 
 .online::after {
   content: "";
+  width: 7px;
+  height: 7px;
+  border: 2px solid #fff;
 }
