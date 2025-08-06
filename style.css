@@ -93,3 +93,9 @@ nav {
   justify-content: space-between;
   padding: 13px 5%;
 }
+
+.left-sidebar {
+  background-color: #cbdffa;
+  flex-basis: 25%;
+  position: sticky;
+}
