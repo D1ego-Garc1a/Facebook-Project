@@ -111,3 +111,7 @@ nav {
   align-self: flex-start;
   height: 100vh;
 }
+
+.main-content {
+  flex-basis: 47%;
+}
